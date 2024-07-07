@@ -1,3 +1,8 @@
+DigiHydro is a multifuntional application with an IOT device to help hydroponic growers manage their planted crop batches.
+
+Technologies Used: Firebase (Realtime Database, Google Cloud and Firestore), Flutter (Dart), Arduino
+
+
 DigiHydro Application Installation Guide
 
 1. Download the provided APK or the APK on this link https://drive.google.com/file/d/1b_tONmB9aENHs3gAulAT_kutvb8dJTi6/view?usp=drive_link
